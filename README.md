@@ -5,6 +5,8 @@ Some of this may be repetitive from last week, but if anything, more practice wi
 
 As a general overview for this lab, we will:
 
+SUPER COOL EDITS
+
 Fork a repository
 Invite collaborators to your repository
 Create and modify a branch (So, task 2 again) 
